@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pinterest.com/pin/a-little-world-but-a-big-imagination--590323463628487408/)](httpsL://rishavchanda.io)
+[![MasterHead](https://64.media.tumblr.com/54d6b675759bdeecf23aafc15042d9f7/tumblr_oujxtk2mZB1wvke5ro2_1280.jpg)](httpsL://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Parth $</h1>
 <h3 align="center">I'm a Aspiring Game Dev from India</h3>
 
