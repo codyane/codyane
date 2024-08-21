@@ -1,6 +1,5 @@
-<p align="center">
-[![MasterHead](https://64.media.tumblr.com/062b6eb64221768d2ac436482e6284dd/4a24d7f92bdbc841-28/s540x810/ee6bbb1917a69985dd4240dec5c72fcd9c0c39d1.gifv)](httpsL://rishavchanda.io)
-  </p>
+[![MasterHead](https://64.media.tumblr.com/e05b926ff051535b0a804caba76def7d/tumblr_ovql5zKy4E1wvke5ro4_1280.jpg)](httpsL://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Parth $</h1>
 <h3 align="center">I'm a Aspiring Game Dev from India</h3>
 
