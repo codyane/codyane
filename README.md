@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/25c1e9251637641194c3b081999b4783/tumblr_nzm93gRv3N1txt22yo1_500.gifv)](httpsL://rishavchanda.io)
+[![MasterHead](https://stardust-specks.tumblr.com/post/169545471389/quick-night-sky-header)](httpsL://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Parth $</h1>
 <h3 align="center">I'm a Aspiring Game Dev from India</h3>
 
