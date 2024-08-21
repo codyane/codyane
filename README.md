@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/54d6b675759bdeecf23aafc15042d9f7/tumblr_oujxtk2mZB1wvke5ro2_1280.jpg)](httpsL://rishavchanda.io)
+[![MasterHead](https://64.media.tumblr.com/2b727284bda5c289d43211bc2defd560/tumblr_odnv1juk3P1veydt5o1_500.gifv)](httpsL://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Parth $</h1>
 <h3 align="center">I'm a Aspiring Game Dev from India</h3>
 
