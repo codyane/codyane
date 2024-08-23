@@ -3,6 +3,8 @@
 <h1 align="center">Yoo! 👋, I'm Parth $</h1>
 <h3 align="center">I'm a Aspiring Game Dev from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv4ace&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv4ace" /> </p>
+
 - 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **parthsawant4work@gmail.com**
