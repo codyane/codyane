@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1267172104718127248/1276933472413421629/githubanner.png?ex=66cb5478&is=66ca02f8&hm=57ade12781fc1e78a9e4dd325649487b05e1f8af931c53b901d1023d0cc22429&)](httpsL://rishavchanda.io)
 
 <h1 align="center">Yoo! 👋, I'm Parth $</h1>
 <h3 align="center">I'm a Aspiring Game Dev from India</h3>
