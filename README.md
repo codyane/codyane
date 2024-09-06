@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img width="640" height="200" src="https://github.com/user-attachments/assets/772b6d60-84f7-44fa-a150-79fd424b35a0">
+</p>
 <h1 align="center">Yoo! 👋, I'm Parth $</h1>
 <h3 align="center">I'm a Aspiring Game Dev from India</h3>
 
