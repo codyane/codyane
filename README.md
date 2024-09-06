@@ -1,8 +1,9 @@
 <p align="center">
-  <img width="640" height="200" src="https://github.com/user-attachments/assets/772b6d60-84f7-44fa-a150-79fd424b35a0">
+  <img width="640" height="200" src="https://cdn.discordapp.com/attachments/1041662224743276555/1281516931437957175/ezgif-7-6c9e8c25e3.gif?ex=66dc0125&is=66daafa5&hm=34a0b960b393229fcced5be40be24db20c352beb22800b996ed4ee1017b7e845&">
 </p>
 <h1 align="center">Yoo! 👋, I'm Parth $</h1>
 <h3 align="center">I'm a Aspiring Game Dev from India</h3>
+<img align="right" alt="Coding" width="250" height="250" src="https://cdn.discordapp.com/attachments/1041662224743276555/1281516446203252817/a_9224a4557526c17b3a42ea4b57d8d46e.gif?ex=66dc00b2&is=66daaf32&hm=94799286727a76efc61a6dfef06c7e8a0acf8339ea3c87431c4fb030a72c8d07&">
 
 - 🌱 I’m currently learning **C++**
 
