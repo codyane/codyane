@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Yoo! 👋, I'm Parth $</h1>
 <h3 align="center">I'm a Aspiring Game Dev from India</h3>
-<img align="right" alt="Coding" width="250" height="250" src="https://cdn.discordapp.com/attachments/1041662224743276555/1281516446203252817/a_9224a4557526c17b3a42ea4b57d8d46e.gif?ex=66dc00b2&is=66daaf32&hm=94799286727a76efc61a6dfef06c7e8a0acf8339ea3c87431c4fb030a72c8d07&">
+<img align="right" alt="Coding" width="250" height="250" src="https://media.tenor.com/v7NCgvkJwIYAAAAM/dark-souls.gif">
 
 - 🌱 I’m currently learning **C++**
 
