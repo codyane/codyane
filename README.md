@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="640" height="200" src="https://cdn.discordapp.com/attachments/1041662224743276555/1281516931437957175/ezgif-7-6c9e8c25e3.gif?ex=66dc0125&is=66daafa5&hm=34a0b960b393229fcced5be40be24db20c352beb22800b996ed4ee1017b7e845&">
-</p>
+
 <h1 align="center">Yoo! 👋, I'm Parth $</h1>
 <h3 align="center">I'm a Aspiring Game Dev from India</h3>
 <img align="right" alt="Coding" width="250" height="250" src="https://i.pinimg.com/originals/d7/bb/b5/d7bbb535fcb910ab75b71f51116c4d70.gif">
