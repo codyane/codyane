@@ -1,11 +1,11 @@
 
-<h1 align="center">Yoo! 👋, I'm Parth $</h1>
-<h3 align="center">I'm a Aspiring Game Dev from India</h3>
+<h1 align="center">Hey! 👋, I'm Parth $</h1>
+<h3 align="center">I'm a Aspiring Game Dev & Quant from India</h3>
 <img align="right" alt="Coding" width="250" height="250" src="https://i.pinimg.com/originals/d7/bb/b5/d7bbb535fcb910ab75b71f51116c4d70.gif">
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **parthsawant4work@gmail.com**
+- 📫 How to reach me **parthsawant006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
