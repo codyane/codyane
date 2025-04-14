@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey! I'm Parth $</h1>
+<h1 align="center">Hey! I'm Parth ★</h1>
 <h3 align="center">I'm a Aspiring Game Dev & Quant from India</h3>
 
 
