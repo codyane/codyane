@@ -1,7 +1,7 @@
 
-<h1 align="center">Hey! 👋, I'm Parth $</h1>
+<h1 align="center">Hey! I'm Parth $</h1>
 <h3 align="center">I'm a Aspiring Game Dev & Quant from India</h3>
-<img align="right" alt="Coding" width="250" height="250" src="https://i.pinimg.com/originals/d7/bb/b5/d7bbb535fcb910ab75b71f51116c4d70.gif">
+
 
 - 🌱 I’m currently learning **C++**
 
